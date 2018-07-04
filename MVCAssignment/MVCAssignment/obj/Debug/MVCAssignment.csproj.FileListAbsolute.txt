@@ -62,6 +62,9 @@ D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\Microsoft.AI.Dep
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\Microsoft.AI.WindowsServer.xml
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\Microsoft.AI.Web.xml
-D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\obj\Debug\MVCAssignment.csprojResolveAssemblyReference.cache
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\obj\Debug\MVCAssignment.dll
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\obj\Debug\MVCAssignment.pdb
+D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.dll
+D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.SqlServer.dll
+D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.xml
+D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.SqlServer.xml
