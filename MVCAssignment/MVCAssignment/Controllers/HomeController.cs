@@ -37,5 +37,25 @@ namespace MVCAssignment.Controllers
             ViewBag.Message = "Our product lineup.";
             return View();
         }
+
+        //ProductSold page view
+        public ActionResult Sold()
+        {
+            return View();
+        }
+
+        //Product page view
+        public ActionResult Customer()
+        {
+            ViewBag.Message = "Our valued customers.";
+            return View();
+        }
+
+        //Product page view
+        public ActionResult Store()
+        {
+            ViewBag.Message = "Our stores.";
+            return View();
+        }
     }
 }
