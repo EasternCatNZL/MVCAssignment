@@ -16,7 +16,7 @@ namespace MVCAssignment
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Sold", id = UrlParameter.Optional }
+                defaults: new { controller = "Sales", action = "Index", id = UrlParameter.Optional }
             );
         }
     }

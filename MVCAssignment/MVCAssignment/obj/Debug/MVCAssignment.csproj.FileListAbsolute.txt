@@ -68,3 +68,4 @@ D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.SqlServer.dll
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.xml
 D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\bin\EntityFramework.SqlServer.xml
+D:\OtherRepos\MVCAssignmentRepo\MVCAssignment\MVCAssignment\obj\Debug\MVCAssignment.csprojResolveAssemblyReference.cache
