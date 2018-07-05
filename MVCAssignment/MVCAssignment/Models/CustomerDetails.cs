@@ -9,6 +9,7 @@ namespace MVCAssignment.Models
     //Model details
     public class CustomerDetails
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
     }

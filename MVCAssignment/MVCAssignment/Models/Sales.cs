@@ -9,6 +9,7 @@ namespace MVCAssignment.Models
     //Model details
     public class Sales
     {
+        public int Id { get; set; }
         //public int ProductID { get; set; }
         //public int CustomerID { get; set; }
         //public int StoreID { get; set; }
@@ -21,6 +22,6 @@ namespace MVCAssignment.Models
         public DbSet<Product> Product { get; set; }
         public DbSet<CustomerDetails> Customer { get; set; }
         public DbSet<Store> Store { get; set; }
-        public DbSet<Sales> SaleDate { get; set; }
+        public DbSet<Sales> SalesDB { get; set; }
     }
 }
