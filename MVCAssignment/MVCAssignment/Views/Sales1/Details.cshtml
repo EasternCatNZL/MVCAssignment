@@ -1,0 +1,51 @@
+﻿@model MVCAssignment.Models.Sales
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Sales</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StoreID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StoreID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateSold)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateSold)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SalesId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
